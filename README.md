@@ -4,7 +4,7 @@ on the same folder of the script, create a **"peer.conf"** file and paste the pe
 
 peer.conf example
 
-```
+```conf
 [Interface]
 Address = 10.13.13.3
 PrivateKey = uAUXUXJD1kDsqiT3hGENJafCxyOPGxvBoRJCAUzMC8mmA=
